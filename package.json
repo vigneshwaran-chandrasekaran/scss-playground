@@ -1,0 +1,22 @@
+{
+  "name": "scss-playground",
+  "version": "1.0.0",
+  "description": "scss-playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshwaran-chandrasekaran/scss-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshwaran-chandrasekaran/scss-playground/issues"
+  },
+  "homepage": "https://github.com/vigneshwaran-chandrasekaran/scss-playground#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
